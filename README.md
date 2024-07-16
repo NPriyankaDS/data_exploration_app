@@ -1,4 +1,4 @@
-### CSV Explorer
+# CSV Explorer
 
 ## About
 This application called CSVExplorer explores the data mainly in csv format.
